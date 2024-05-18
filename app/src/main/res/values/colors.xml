@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#591165</color>
+    <color name="colorPrimary">#D347C5</color>
+    <color name="colorPrimaryDark">#880088</color>
+
+<!--    <color name="colorGradientStart">#E8B870F6</color>-->
+    <color name="colorGradientStart">#e0c3fc</color>
+    <color name="colorGradientEnd">#8ec5fc</color>
+
+<!--    <color name="colorTransparent">#00ffffff</color>-->
+
+<!--    <color name="colorGradientStart">#4689DA</color>-->
+<!--    <color name="colorGradientCenter">#DCC448DA</color>-->
+<!--    <color name="colorGradientEnd">#FFFDFE</color>-->
+</resources>
